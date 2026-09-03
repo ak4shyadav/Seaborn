@@ -1,5 +1,9 @@
 # Assignment 10: Pandas (Series, DataFrame, Functions, Filtering & Analysis)
 
+## Reworked Assignment
+
+\\ AND I AM NOT USING AI FOR SOLVING TASKS, I USED CHATGPT ONLY TO WRITE THIS BORING README FILE. SO PLEASE CONSIDER IT.
+
 ## Overview
 
 This assignment focuses on using **Pandas** for handling, analyzing, and visualizing tabular data. It covers Series, DataFrames, mathematical operations, filtering, and basic data analysis.
